@@ -7,13 +7,9 @@
 </div>
 
 ## About me
-* 
+
 
  
-
-
-
-
 
 ## Let's connect!
 
