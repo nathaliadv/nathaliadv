@@ -1,9 +1,5 @@
-<!-- <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN1OWh4OHR4Y3A2MDNiZ3Rua3Vyd2R1eXdsMXRiNzg2a3Z3b2w2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" alt="GitHub Logo" width="150" height="150" />
-</div> -->
-
 <div align="center">
-<h2> Hi, I'm Nathalia Dantas! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTlhb20yaTU2MDVtNjVxaGszM2pveGtndHM1d3Y0cm80NGU2azJnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"></h2>
+<h2> Hi, I'm Nathalia Dantas! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l2ZDJza3p3cHpjOHBxenU5ZTB2Njk2MnRzN2Y4M2I2MG1uaWE4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="100"></h2>
 </div>
 
 ## About me
