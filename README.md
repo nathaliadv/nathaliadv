@@ -8,7 +8,13 @@
 
 ## About me
 
+I'm a Software Developer originally from São Paulo, though I spent most of my life in Rio de Janeiro. With a degree in Agricultural and Environmental Engineering from Universidade Federal Fluminense, my journey into tech was unexpected. What began as a personal curiosity quickly grew into a passion, and since May 2021, I've been transforming that passion into my career.
 
+Currently, I work at Mercado Livre in the payments area, where I primarily use Java and Groovy in my daily tasks. I’m always eager to take on new challenges and love exploring new technologies and tools. My curiosity drives me to continuously grow and adapt in this fast-paced, ever-changing field.
+
+I’m fluent in both Portuguese and English, I can understand and speak some Spanish, and I’m currently learning Dutch.
+
+In my free time, I love traveling, binge-watching series, and spending quality time with family and friends.
  
 
 ## Let's connect!
